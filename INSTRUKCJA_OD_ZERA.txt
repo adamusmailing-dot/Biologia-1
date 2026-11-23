@@ -1,0 +1,21 @@
+BIOLOGIA – BADANIA PRZYRODNICZE
+
+Zawartość: index.html, app-v1.js, pytania_biologia.json (45 pytań), style.css, sw.js, manifest, ikony oraz folder materialy z 10 oryginalnymi zdjęciami.
+
+WDROŻENIE GITHUB PAGES
+1. Rozpakuj ZIP.
+2. Wgraj całą zawartość folderu do katalogu głównego repozytorium (root), zachowując strukturę i nazwy.
+3. Zatwierdź zmiany (Commit).
+4. GitHub → Settings → Pages → Deploy from a branch → main → /(root) → Save.
+5. Otwórz adres GitHub Pages swojego repozytorium.
+
+FUNKCJE
+- 45 pytań jednokrotnego i wielokrotnego wyboru; wszystkie odpowiedzi są checkboxami.
+- Po błędzie wyświetla poprawne odpowiedzi i wyjaśnienie; błędne pytania wracają w kolejnych rundach.
+- Po poprawnej odpowiedzi przechodzisz dalej przyciskiem Dalej.
+- Czas obejmuje wszystkie rundy danego podejścia.
+- Losowa kolejność pytań i odpowiedzi przy każdym podejściu.
+- Ranking 20 najlepszych czasów oraz statystyki zapisane lokalnie w przeglądarce.
+- Galeria zawiera oryginalne, niezmienione zdjęcia podręcznika.
+
+UWAGA: statystyki są przechowywane lokalnie na urządzeniu/przeglądarce i nie synchronizują się automatycznie między urządzeniami.

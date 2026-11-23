@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "BIO001",
+    "question": "Biologia bada:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "budowę i funkcjonowanie organizmów"
+      },
+      {
+        "id": "O2",
+        "text": "wyłącznie planety"
+      },
+      {
+        "id": "O3",
+        "text": "procesy związane z życiem"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O3"
+    ],
+    "explanation": "Biologia zajmuje się organizmami oraz procesami i zjawiskami związanymi z życiem.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO002",
+    "question": "Wirusy są zbudowane z:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "DNA lub RNA i białek"
+      },
+      {
+        "id": "O2",
+        "text": "komórek"
+      },
+      {
+        "id": "O3",
+        "text": "samych cukrów"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Wirus składa się z materiału genetycznego (DNA lub RNA) i białek.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO003",
+    "question": "Wirusów nie zalicza się do organizmów, ponieważ:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "nie mają budowy komórkowej"
+      },
+      {
+        "id": "O2",
+        "text": "nie rozmnażają się samodzielnie"
+      },
+      {
+        "id": "O3",
+        "text": "nie mają materiału genetycznego"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Wirusy nie mają komórek i namnażają się tylko w komórkach gospodarza.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO004",
+    "question": "Wirusy namnażają się:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "z udziałem komórki gospodarza"
+      },
+      {
+        "id": "O2",
+        "text": "samodzielnie w wodzie"
+      },
+      {
+        "id": "O3",
+        "text": "przez podział własnej komórki"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Wirusy wykorzystują komórkę gospodarza do namnażania.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO005",
+    "question": "Które to dziedziny nauk biologicznych?",
+    "options": [
+      {
+        "id": "O1",
+        "text": "medycyna"
+      },
+      {
+        "id": "O2",
+        "text": "ekologia"
+      },
+      {
+        "id": "O3",
+        "text": "genetyka"
+      },
+      {
+        "id": "O4",
+        "text": "astronomia"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Medycyna, ekologia i genetyka należą do dziedzin biologicznych.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO006",
+    "question": "Biologia w kryminalistyce pomaga w:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "badaniu DNA"
+      },
+      {
+        "id": "O2",
+        "text": "analizie krwi"
+      },
+      {
+        "id": "O3",
+        "text": "badaniu składu skał"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Ślady biologiczne, takie jak DNA i krew, pomagają w identyfikacji.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO007",
+    "question": "Przykładem zastosowania biologii w ochronie środowiska jest:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "produkcja biogazu przez mikroorganizmy"
+      },
+      {
+        "id": "O2",
+        "text": "produkcja insuliny"
+      },
+      {
+        "id": "O3",
+        "text": "modyfikowanie roślin"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Mikroorganizmy mogą być wykorzystywane do produkcji biogazu.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO008",
+    "question": "Przykładem zastosowania biologii w rolnictwie jest:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "modyfikowanie roślin dla odporności i większych plonów"
+      },
+      {
+        "id": "O2",
+        "text": "analiza krwi"
+      },
+      {
+        "id": "O3",
+        "text": "produkcja antybiotyków"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Modyfikowanie roślin może zwiększać ich odporność i plony.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO009",
+    "question": "Przykłady zastosowania biologii w medycynie:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "bakterie wytwarzające insulinę"
+      },
+      {
+        "id": "O2",
+        "text": "bakterie wytwarzające antybiotyki"
+      },
+      {
+        "id": "O3",
+        "text": "mikroorganizmy do biogazu"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Bakterie mogą być modyfikowane do produkcji insuliny lub antybiotyków.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO010",
+    "question": "Wiarygodne źródła informacji biologicznej to:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "publikacje naukowe"
+      },
+      {
+        "id": "O2",
+        "text": "podręczniki akademickie"
+      },
+      {
+        "id": "O3",
+        "text": "reklamy telewizyjne"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Publikacje naukowe i podręczniki akademickie są wiarygodnymi źródłami.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO011",
+    "question": "Oceniając informację w internecie, sprawdź:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "autora"
+      },
+      {
+        "id": "O2",
+        "text": "datę publikacji"
+      },
+      {
+        "id": "O3",
+        "text": "źródła informacji"
+      },
+      {
+        "id": "O4",
+        "text": "liczbę polubień jako jedyne kryterium"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Ważne są autor, data publikacji i źródła, na które powołuje się autor.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO012",
+    "question": "Obserwacja to metoda, w której:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "nie ingerujemy w badany obiekt"
+      },
+      {
+        "id": "O2",
+        "text": "śledzimy i rejestrujemy zjawisko"
+      },
+      {
+        "id": "O3",
+        "text": "zawsze zmieniamy warunki"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Podczas obserwacji badacz nie wpływa na badany obiekt lub zjawisko.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO013",
+    "question": "Doświadczenie polega na:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "celowej zmianie warunków"
+      },
+      {
+        "id": "O2",
+        "text": "badaniu wpływu określonego czynnika"
+      },
+      {
+        "id": "O3",
+        "text": "obserwacji bez ingerencji"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Doświadczenie pozwala sprawdzić wpływ czynnika przez celową zmianę warunków.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO014",
+    "question": "Problem badawczy to:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "pytanie, na które ma odpowiedzieć badanie"
+      },
+      {
+        "id": "O2",
+        "text": "przypuszczenie"
+      },
+      {
+        "id": "O3",
+        "text": "końcowy wniosek"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Problem badawczy jest pytaniem wyznaczającym cel badania.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO015",
+    "question": "Hipoteza badawcza to:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "przypuszczenie będące możliwą odpowiedzią na problem"
+      },
+      {
+        "id": "O2",
+        "text": "przewidywanie możliwe do sprawdzenia"
+      },
+      {
+        "id": "O3",
+        "text": "pewny, niepodważalny fakt"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Hipoteza jest przypuszczeniem, które następnie sprawdzamy.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO016",
+    "question": "Prawidłowa kolejność etapów badania:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "obserwacja, problem, hipoteza, weryfikacja, wniosek"
+      },
+      {
+        "id": "O2",
+        "text": "wniosek, hipoteza, obserwacja"
+      },
+      {
+        "id": "O3",
+        "text": "hipoteza, wniosek, problem"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Po obserwacji formułujemy problem i hipotezę, weryfikujemy ją, a następnie wyciągamy wniosek.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO017",
+    "question": "Weryfikacja hipotezy oznacza:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "sprawdzenie jej badaniem"
+      },
+      {
+        "id": "O2",
+        "text": "ustalenie, czy wyniki ją potwierdzają"
+      },
+      {
+        "id": "O3",
+        "text": "automatyczne potwierdzenie"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Weryfikacja może potwierdzić hipotezę lub jej zaprzeczyć.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO018",
+    "question": "Próba badawcza to próba:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "poddana działaniu badanego czynnika"
+      },
+      {
+        "id": "O2",
+        "text": "służąca sprawdzeniu wpływu czynnika"
+      },
+      {
+        "id": "O3",
+        "text": "bez badanego czynnika"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "W próbie badawczej występuje badany czynnik.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO019",
+    "question": "Próba kontrolna to próba:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "bez badanego czynnika"
+      },
+      {
+        "id": "O2",
+        "text": "stanowiąca punkt odniesienia"
+      },
+      {
+        "id": "O3",
+        "text": "w której zmieniamy badany czynnik"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Próba kontrolna nie jest poddana działaniu badanego czynnika.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO020",
+    "question": "W doświadczeniu z wiesiołkiem zmieniano:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "dostęp do światła"
+      },
+      {
+        "id": "O2",
+        "text": "liczbę nasion"
+      },
+      {
+        "id": "O3",
+        "text": "temperaturę"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Jedna szalka była oświetlona, a druga osłonięta – badano wpływ światła.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO021",
+    "question": "W doświadczeniu z nasionami jednakowe były:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "liczba nasion"
+      },
+      {
+        "id": "O2",
+        "text": "ilość wody"
+      },
+      {
+        "id": "O3",
+        "text": "temperatura"
+      },
+      {
+        "id": "O4",
+        "text": "dostęp do światła"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Zmieniać powinien się tylko badany czynnik, pozostałe warunki są jednakowe.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO022",
+    "question": "Próbą kontrolną w doświadczeniu z wiesiołkiem była szalka:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "osłonięta czarnym papierem"
+      },
+      {
+        "id": "O2",
+        "text": "z dostępem do światła"
+      },
+      {
+        "id": "O3",
+        "text": "bez nasion"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Próba kontrolna nie miała dostępu do badanego czynnika – światła.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO023",
+    "question": "Wyniki badań można przedstawić:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "w tabeli"
+      },
+      {
+        "id": "O2",
+        "text": "na wykresie"
+      },
+      {
+        "id": "O3",
+        "text": "za pomocą rysunku lub fotografii"
+      },
+      {
+        "id": "O4",
+        "text": "wyłącznie z pamięci"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Wyniki dokumentuje się m.in. tabelami, wykresami, rysunkami i fotografiami.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO024",
+    "question": "Czytelny wykres powinien mieć:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "tytuł"
+      },
+      {
+        "id": "O2",
+        "text": "opisy osi"
+      },
+      {
+        "id": "O3",
+        "text": "odpowiednią skalę"
+      },
+      {
+        "id": "O4",
+        "text": "losowe oznaczenia bez objaśnień"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Tytuł, opisy osi i czytelna skala pozwalają prawidłowo odczytać dane.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO025",
+    "question": "Tabela służy do:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "uporządkowania danych"
+      },
+      {
+        "id": "O2",
+        "text": "porównywania wyników"
+      },
+      {
+        "id": "O3",
+        "text": "ukrywania wyników"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Tabela porządkuje dane i ułatwia ich porównywanie.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO026",
+    "question": "Średnia arytmetyczna to:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "suma wyników podzielona przez ich liczbę"
+      },
+      {
+        "id": "O2",
+        "text": "największy wynik"
+      },
+      {
+        "id": "O3",
+        "text": "sposób obliczenia wartości przeciętnej"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O3"
+    ],
+    "explanation": "Dodajemy wyniki i dzielimy sumę przez liczbę wyników.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO027",
+    "question": "Średnia wyników 2, 4 i 6 wynosi:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "4"
+      },
+      {
+        "id": "O2",
+        "text": "6"
+      },
+      {
+        "id": "O3",
+        "text": "12"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "(2 + 4 + 6) / 3 = 4.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO028",
+    "question": "Obserwacja makroskopowa dotyczy:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "obiektów widocznych gołym okiem"
+      },
+      {
+        "id": "O2",
+        "text": "obiektów wymagających mikroskopu"
+      },
+      {
+        "id": "O3",
+        "text": "większych części organizmu"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O3"
+    ],
+    "explanation": "Obserwacja makroskopowa obejmuje obiekty widoczne gołym okiem.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO029",
+    "question": "Obserwacja mikroskopowa to obserwacja:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "za pomocą mikroskopu"
+      },
+      {
+        "id": "O2",
+        "text": "małych obiektów i szczegółów ich budowy"
+      },
+      {
+        "id": "O3",
+        "text": "wyłącznie całych lasów"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Mikroskop pozwala obserwować komórki i inne małe struktury.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO030",
+    "question": "Podstawowe rodzaje mikroskopów z podręcznika:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "optyczny"
+      },
+      {
+        "id": "O2",
+        "text": "elektronowy"
+      },
+      {
+        "id": "O3",
+        "text": "akustyczny"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Wyróżniono mikroskop optyczny i elektronowy.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO031",
+    "question": "Mikroskop optyczny powiększa obiekt około:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "1000 razy"
+      },
+      {
+        "id": "O2",
+        "text": "100 razy"
+      },
+      {
+        "id": "O3",
+        "text": "1 000 000 razy"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Podręcznik podaje powiększenie około 1000 razy.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO032",
+    "question": "Mikroskop elektronowy może powiększać obiekt do:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "1 000 000 razy"
+      },
+      {
+        "id": "O2",
+        "text": "100 razy"
+      },
+      {
+        "id": "O3",
+        "text": "1000 razy"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "W podręczniku podano powiększenie do miliona razy.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO033",
+    "question": "SEM i TEM – prawidłowe stwierdzenia:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "SEM daje obraz trójwymiarowy"
+      },
+      {
+        "id": "O2",
+        "text": "TEM daje obraz dwuwymiarowy"
+      },
+      {
+        "id": "O3",
+        "text": "SEM daje zawsze obraz dwuwymiarowy"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Skaningowy SEM daje obraz 3D, a transmisyjny TEM – 2D.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO034",
+    "question": "Okular mikroskopu:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "zawiera soczewkę"
+      },
+      {
+        "id": "O2",
+        "text": "umożliwia obserwację powiększonego obrazu"
+      },
+      {
+        "id": "O3",
+        "text": "oświetla preparat"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Okular zawiera soczewkę, przez którą obserwujemy powiększony obraz.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO035",
+    "question": "Obiektyw mikroskopu:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "zawiera soczewkę powiększającą"
+      },
+      {
+        "id": "O2",
+        "text": "jest wymieniany za pomocą rewolweru"
+      },
+      {
+        "id": "O3",
+        "text": "jest źródłem światła"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Obiektyw powiększa obraz, a rewolwer umożliwia jego zmianę.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO036",
+    "question": "Elementy mechaniczne mikroskopu to:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "tubus"
+      },
+      {
+        "id": "O2",
+        "text": "rewolwer"
+      },
+      {
+        "id": "O3",
+        "text": "stolik"
+      },
+      {
+        "id": "O4",
+        "text": "okular"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Tubus, rewolwer i stolik są elementami mechanicznymi.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO037",
+    "question": "Elementy optyczne mikroskopu to:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "okular"
+      },
+      {
+        "id": "O2",
+        "text": "obiektyw"
+      },
+      {
+        "id": "O3",
+        "text": "kondensor"
+      },
+      {
+        "id": "O4",
+        "text": "śruba makrometryczna"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Okular, obiektyw i kondensor należą do elementów optycznych.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO038",
+    "question": "Śruba makrometryczna służy do:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "wstępnego ustawienia ostrości"
+      },
+      {
+        "id": "O2",
+        "text": "przesuwania stolika względem obiektywu"
+      },
+      {
+        "id": "O3",
+        "text": "precyzyjnej regulacji ostrości"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Śruba makrometryczna przesuwa stolik i pomaga odnaleźć obraz.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO039",
+    "question": "Śruba mikrometryczna służy do:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "precyzyjnego ustawienia ostrości"
+      },
+      {
+        "id": "O2",
+        "text": "dokładnej regulacji ostrości"
+      },
+      {
+        "id": "O3",
+        "text": "oświetlania preparatu"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Śruba mikrometryczna służy do precyzyjnego ustawiania ostrości.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO040",
+    "question": "Całkowite powiększenie mikroskopu obliczamy:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "mnożąc powiększenie okularu przez obiektyw"
+      },
+      {
+        "id": "O2",
+        "text": "dodając powiększenia"
+      },
+      {
+        "id": "O3",
+        "text": "dzieląc powiększenie obiektywu przez okular"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Całkowite powiększenie = powiększenie okularu × powiększenie obiektywu.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO041",
+    "question": "Okular 10× i obiektyw 40× dają powiększenie:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "400×"
+      },
+      {
+        "id": "O2",
+        "text": "50×"
+      },
+      {
+        "id": "O3",
+        "text": "100×"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "10 × 40 = 400.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO042",
+    "question": "Mikroskopowanie rozpoczynamy od:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "obiektywu o najmniejszym powiększeniu"
+      },
+      {
+        "id": "O2",
+        "text": "obiektywu o największym powiększeniu"
+      },
+      {
+        "id": "O3",
+        "text": "dowolnego obiektywu"
+      }
+    ],
+    "correctOptionIds": [
+      "O1"
+    ],
+    "explanation": "Najmniejsze powiększenie ułatwia odnalezienie preparatu.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO043",
+    "question": "Prawidłowe zasady mikroskopowania:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "oczyścić części optyczne miękką ściereczką"
+      },
+      {
+        "id": "O2",
+        "text": "zacząć od najmniejszego powiększenia"
+      },
+      {
+        "id": "O3",
+        "text": "umieścić preparat pod obiektywem"
+      },
+      {
+        "id": "O4",
+        "text": "zacząć od największego powiększenia"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Przed obserwacją czyścimy optykę, ustawiamy małe powiększenie i preparat na stoliku.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO044",
+    "question": "Po uzyskaniu obrazu przy małym powiększeniu:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "można wybrać większe powiększenie"
+      },
+      {
+        "id": "O2",
+        "text": "należy ponownie wyregulować ostrość"
+      },
+      {
+        "id": "O3",
+        "text": "należy od razu wyjąć preparat"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2"
+    ],
+    "explanation": "Po odnalezieniu obiektu można zwiększyć powiększenie i ponownie ustawić ostrość.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  },
+  {
+    "id": "BIO045",
+    "question": "Obserwację mikroskopową dokumentujemy:",
+    "options": [
+      {
+        "id": "O1",
+        "text": "rysunkiem"
+      },
+      {
+        "id": "O2",
+        "text": "fotografią"
+      },
+      {
+        "id": "O3",
+        "text": "rysunkiem z tytułem i podanym powiększeniem"
+      }
+    ],
+    "correctOptionIds": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "explanation": "Podręcznik zaleca rysunki lub fotografie; rysunek powinien mieć tytuł, opis i powiększenie.",
+    "source": "Załączone zdjęcia podręcznika, dział 1: Badania przyrodnicze"
+  }
+]
